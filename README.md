@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @CharlieLkz
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning C, C++, Java, and Python.
-- 💞️ I’m looking to collaborate on a growing project in the private sector.
-- 📫 How to reach me, you can reach me vía Instagram for collab @charly_lazcano20, or via e-mail: charly.lazcano20@gmail.com
+👋 I'm Charlie Lazcano: Your Coding Companion! 👨‍💻
 
-<!---
-CharlieLkz/CharlieLkz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Discover the world of coding with me, I'm a Telecommunications Engineering student at The National Autonomous University of Mexico. 
+Passionate about IoT and fluent in C, Java, HTML, and Python, my skills transcend languages.
+
+Diving into the intricate realm of IoT, I help bring the virtual to life. Join me on Instagram (@charly_lazcano20) for insights into my projects, or reach out at charly.lazcano20@gmail.com to collaborate. If you choose to collaborate with me, we'll paint the future with code, where innovation knows no bounds. 🚀🌌
