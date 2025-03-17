@@ -1,4 +1,4 @@
-👋 I'm Charlie Lazcano: Your Coding Companion! 👨‍💻
+👋 I'm Charlie Lazcano: I'm your guy! 👨‍💻
 
 Discover the world of coding with me, I'm a Telecommunications Engineering student at The National Autonomous University of Mexico. 
 Passionate about IoT and fluent in C, Java, HTML, and Python, my skills transcend languages.
